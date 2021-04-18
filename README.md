@@ -11,7 +11,7 @@ Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
 
-### Check my blog latest posts:
+<!-- ### Check my blog latest posts: -->
 
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST:END -->
