@@ -6,6 +6,7 @@ I'm a web developer currently working with:
 - Vue and Nuxt
 
 Twitter: [@cguttweb](https://twitter.com/cguttweb)
+
 Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 
 <!--
