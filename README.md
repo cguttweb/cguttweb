@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm Chloe
+
+I'm a web developer currently working with:
+
+- vanilla JavaScript
+- Vue and Nuxt
+
+Twitter: [@cguttweb](https://twitter.com/cguttweb)
+Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 
 <!--
 **cguttweb/cguttweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
