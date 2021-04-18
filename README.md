@@ -1,4 +1,4 @@
-### Hi there I'm Chloe
+## Hi there I'm Chloe
 
 I'm a web developer currently working with:
 
@@ -10,6 +10,11 @@ Twitter: [@cguttweb](https://twitter.com/cguttweb)
 Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
+
+### Check my blog latest posts:
+
+<!-- BLOG-POST-LIST: START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **cguttweb/cguttweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
