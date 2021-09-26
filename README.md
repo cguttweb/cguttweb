@@ -2,8 +2,9 @@
 
 I'm a web developer currently working with:
 
-- vanilla JavaScript
+- Vanilla JavaScript
 - Vue and Nuxt
+- Dabbling with Gatsby and headless CMS
 
 Twitter: [@cguttweb](https://twitter.com/cguttweb)
 
