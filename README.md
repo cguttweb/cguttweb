@@ -4,7 +4,7 @@ I'm a web developer currently working with:
 
 - Vanilla JavaScript
 - Vue and Nuxt
-- Dabbling with Gatsby and [Forestry.io](https://forestry.io/)
+<!-- - Dabbling with Gatsby and [Forestry.io](https://forestry.io/) -->
 
 Twitter: [@cguttweb](https://twitter.com/cguttweb)
 
