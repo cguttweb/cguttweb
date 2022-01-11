@@ -6,11 +6,14 @@ I'm a web developer currently working with:
 - Vue and Nuxt
 <!-- - Dabbling with Gatsby and [Forestry.io](https://forestry.io/) -->
 
-Twitter: [@cguttweb](https://twitter.com/cguttweb)
-
-Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
+### Find me on
+- Twitter: [@cguttweb](https://twitter.com/cguttweb)
+- Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
+- Dev: [cguttweb](https://dev.to/cguttweb)
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
+
+Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
 <!-- ### Check my blog latest posts: -->
 
