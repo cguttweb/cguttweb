@@ -4,7 +4,7 @@ I'm a web developer currently working with:
 
 - Vanilla JavaScript
 - Vue and Nuxt
-<!-- - Dabbling with Gatsby and [Forestry.io](https://forestry.io/) -->
+- Started learning some PHP and Laravel
 
 ### Find me on
 - Twitter: [@cguttweb](https://twitter.com/cguttweb)
