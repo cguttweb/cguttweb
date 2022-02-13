@@ -11,9 +11,9 @@ I'm a web developer currently working with:
 - Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 - Dev: [cguttweb](https://dev.to/cguttweb)
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
+My site: [https://www.cguttweb.co.uk/](https://www.cguttweb.co.uk/)
 
-Check out latest posts on my [blog](https://cgweb.co.uk/blog)
+Check out latest posts on my [blog](https://cguttweb.co.uk/blog)
 
 <!-- ### Check my blog latest posts: -->
 
