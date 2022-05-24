@@ -4,7 +4,7 @@ I'm a web developer currently working with:
 
 - Vanilla JavaScript
 - Vue and Nuxt
-- Started learning some PHP and Laravel
+- Learning some nodejs
 
 ### Find me on
 - Twitter: [@cguttweb](https://twitter.com/cguttweb)
