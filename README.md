@@ -3,8 +3,9 @@
 I'm a web developer currently working with:
 
 - Vanilla JavaScript
-- Vue and Nuxt
-- Learning some nodejs
+- Vue and Nuxt 3
+
+
 
 ### Find me on
 - Twitter: [@cguttweb](https://twitter.com/cguttweb)
