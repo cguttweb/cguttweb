@@ -14,7 +14,7 @@ I'm a web developer currently working with:
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
 
-Check out latest posts on my [blog](https://cguttweb.co.uk/blog)
+Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
 <!-- ### Check my blog latest posts: -->
 
