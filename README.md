@@ -4,7 +4,7 @@ I'm a web developer currently working with:
 
 - Vanilla JavaScript
 - Vue and Nuxt 3
-- Started learning the basics of SQL and PHP
+- Started learning the basics of SQL and PHP and dabbling with Laravel
 
 
 ### Find me on
