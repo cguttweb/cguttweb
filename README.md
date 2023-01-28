@@ -4,13 +4,14 @@ I'm a web developer currently working with:
 
 - Vanilla JavaScript
 - Vue and Nuxt 3
-- Started learning the basics of SQL and PHP and dabbling with Laravel
+- Started learning the basics of SQL, PHP and Laravel
 
 
 ### Find me on
 - Twitter: [@cguttweb](https://twitter.com/cguttweb)
 - Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 - Dev: [cguttweb](https://dev.to/cguttweb)
+- Mastodon: [@cguttweb](https://uiuxdev.social/@cguttweb)
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
 
