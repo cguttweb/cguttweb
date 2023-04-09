@@ -8,7 +8,6 @@ I'm a web developer currently working with:
 
 
 ### Find me on
-- Twitter: [@cguttweb](https://twitter.com/cguttweb)
 - Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
 - Dev: [cguttweb](https://dev.to/cguttweb)
 - Mastodon: [@cguttweb](https://techhub.social/@cguttweb)
