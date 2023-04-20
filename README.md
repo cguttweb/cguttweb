@@ -3,8 +3,8 @@
 I'm a web developer currently working with:
 
 - Vanilla JavaScript
-- Vue and Nuxt 3
-- Started learning the basics of SQL, PHP and Laravel
+- Vue and Nuxt 3 - rebuilding my portfolio and blog...
+- I'm learning the basics of SQL, PHP and Laravel
 
 
 ### Find me on
