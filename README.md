@@ -2,15 +2,19 @@
 
 I'm a web developer currently working with:
 
-- Vanilla JavaScript
-- Vue and Nuxt 3 - rebuilding my portfolio and blog...
+- Vue and Nuxt 3
 - I'm learning the basics of SQL, PHP and Laravel
 
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vue,nuxt,tailwindcss,md)](https://skillicons.dev)
+
+I build projects mostly using [![Building with vite and vue](https://skillicons.dev/icons?i=vite,vscode)](https://skillicons.dev)
 
 ### Find me on
-- Instagram: [cguttweb2017](https://instagram.com/cguttweb2017)
-- Dev: [cguttweb](https://dev.to/cguttweb)
-- Mastodon: [@cguttweb](https://techhub.social/@cguttweb)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@cguttweb)
+[![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)
 
 My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
 
