@@ -9,7 +9,7 @@ I'm a web developer currently working with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vue,nuxt,tailwindcss,md)](https://skillicons.dev)
 
-I build projects mostly using [![Building with vite and vue](https://skillicons.dev/icons?i=vite,vscode)](https://skillicons.dev)
+I build projects mostly using [![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) and [![vuejs framework](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
 ### Find me on
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@cguttweb)
