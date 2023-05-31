@@ -7,7 +7,14 @@ I'm a web developer currently working with:
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,vue,nuxt,tailwindcss,md)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![js](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/guide/introduction.html)
+[![nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/docs/getting-started/installation)
+[![tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/docs/installation)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/getting-started/)
 
 I build projects mostly using [![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) and [![vuejs framework](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
