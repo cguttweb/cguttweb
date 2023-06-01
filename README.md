@@ -16,7 +16,7 @@ I'm a web developer currently working with:
 [![tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/docs/installation)
 [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/getting-started/)
 
-I build projects mostly using [![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) and [![vuejs framework](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+For building projects I use [![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 
 ### Find me on
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@cguttweb)
