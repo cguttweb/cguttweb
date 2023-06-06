@@ -5,6 +5,8 @@ I'm a web developer currently working with:
 - Vue and Nuxt 3
 - I'm learning the basics of SQL, PHP and Laravel
 
+I've recently had my first PR contribution accepted through the Codecademy docs repo for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work it was as scary as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
+
 ### My Skills
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -15,8 +17,7 @@ I'm a web developer currently working with:
 [![nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/docs/getting-started/installation)
 [![tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/docs/installation)
 [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/getting-started/)
-
-For building projects I use [![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![Building with vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 
 ### Find me on
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@cguttweb)
