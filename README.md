@@ -3,7 +3,7 @@
 I'm a web developer currently working with:
 
 - Vue and Nuxt 3
-- I'm learning the basics of SQL, PHP and Laravel
+- Learning some SQL
 
 I've recently had my first PR contribution accepted through the Codecademy docs repo for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work it was as scary as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
 
