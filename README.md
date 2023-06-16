@@ -5,7 +5,9 @@ I'm a web developer currently working with:
 - Vue and Nuxt 3
 - Learning some SQL
 
-I've recently had my first PR contribution accepted through the Codecademy docs repo for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work it was as scary as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
+I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
+
+I've recently had my first PR contributions accepted through the Codecademy docs repo including for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work. It was not as intimidating as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
 
 ### My Skills
 
