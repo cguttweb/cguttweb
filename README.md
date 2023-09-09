@@ -2,9 +2,8 @@
 
 I'm a web developer currently working with:
 
+- Refreshing vailla JS
 - Vue and Nuxt 3
-- Learning some SQL
-- Started learning laravel
 
 I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
 
