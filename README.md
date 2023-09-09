@@ -2,7 +2,7 @@
 
 I'm a web developer currently working with:
 
-- Refreshing vailla JS
+- Refreshing vanilla JS
 - Vue and Nuxt 3
 
 I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
