@@ -2,8 +2,9 @@
 
 I'm a web developer currently working with:
 
-- Refreshing vanilla JS
+- Vanilla JS
 - Vue and Nuxt 3
+- Started learning about React
 
 I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
 
