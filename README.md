@@ -2,8 +2,9 @@
 
 I'm a web developer currently working with:
 
-- re-learning vanilla JS
+- Vanilla JS
 - Vue and Nuxt 3
+- SQL
 
 I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
 
