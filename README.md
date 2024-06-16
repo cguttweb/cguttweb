@@ -3,12 +3,11 @@
 I'm a web developer currently working with:
 
 - Vanilla JS
-- Vue and Nuxt 3
 - SQL
 
 I'm working my way through the web development and full stack engineer path on [Codecademy](https://www.codecademy.com)
 
-I've recently had my first PR contributions accepted through the Codecademy docs repo including for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work. It was not as intimidating as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
+I've had some PR contributions for JavaScript accepted through the Codecademy docs repo including for getFullYear method [here](https://www.codecademy.com/resources/docs/javascript/dates/getFullYear). It was a great learning curve to understand how these processes work. It was not as intimidating as it seems at first and it is definitely something I wish to get more involved with in the future as my skills improve.
 
 ### My Skills
 
@@ -27,7 +26,7 @@ I've recently had my first PR contributions accepted through the Codecademy docs
 [![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/)
+My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I will working on rebuilding my site this year probably with nuxt 3
 
 Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
