@@ -26,7 +26,7 @@ I've had some PR contributions for JavaScript accepted through the Codecademy do
 [![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I will working on rebuilding my site this year probably with nuxt 3
+My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I will working on rebuilding my site potentially with nuxt 3
 
 Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
