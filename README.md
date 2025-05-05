@@ -1,9 +1,10 @@
 ## Hi there I'm Chloe
 
-I'm a web developer currently working with:
+I'm a web developer currently working with and learning:
 
 - Vanilla JS
 - SQL
+- Vue
 
 I'm working my way through the front end and (after full stack) engineer path on [Codecademy](https://www.codecademy.com)
 
@@ -24,9 +25,9 @@ I've had some PR contributions for JavaScript accepted through the Codecademy do
 ### Find me on
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@cguttweb)
 [![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)
+<!--[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)-->
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I will working on rebuilding my site I bought a domain name but won't look at starting a rebuild until probably early next year
+My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I'm looking to rebuild my site once I decide on what tech stack to use...
 Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
 <!-- ### Check my blog latest posts: -->
