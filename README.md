@@ -4,7 +4,8 @@ I'm a web developer currently working with and learning:
 
 - Vanilla JS
 - SQL
-- Vue
+- Astro
+- Vue (next on the list)
 
 I'm working my way through the front end and (after full stack) engineer path on [Codecademy](https://www.codecademy.com)
 
