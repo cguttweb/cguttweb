@@ -4,8 +4,8 @@ I'm a web developer currently working with and learning:
 
 - Vanilla JS
 - SQL
-- Astro
-- Vue (next on the list)
+- Vue
+- Astro (sort of)
 
 I'm working my way through the front end and (after full stack) engineer path on [Codecademy](https://www.codecademy.com)
 
@@ -28,7 +28,7 @@ I've had some PR contributions for JavaScript accepted through the Codecademy do
 [![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
 <!--[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)-->
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I'm looking to rebuild my site once I decide on what tech stack to use...
+My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I'm looking to do a rebuild which is overdue
 Check out latest posts on my [blog](https://cgweb.co.uk/blog)
 
 <!-- ### Check my blog latest posts: -->
