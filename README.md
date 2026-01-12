@@ -5,7 +5,6 @@ I'm a web developer currently working with and learning:
 - Vanilla JS
 - SQL
 - Vue
-- Astro (sort of)
 
 I'm working my way through the front end and (after full stack) engineer path on [Codecademy](https://www.codecademy.com)
 
