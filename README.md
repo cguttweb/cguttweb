@@ -27,8 +27,7 @@ I've had some PR contributions for JavaScript accepted through the Codecademy do
 [![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/cguttweb)
 <!--[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cguttweb2017)-->
 
-My site: [https://www.cgweb.co.uk/](https://www.cgweb.co.uk/) - I'm looking to do a rebuild which is overdue
-Check out latest posts on my [blog](https://cgweb.co.uk/blog)
+My site: rebuild is WIP
 
 <!-- ### Check my blog latest posts: -->
 
